@@ -1,1 +1,2 @@
-# Foundation_of_dsnumpy
+# foundation of datascience 
+# this is my numpy assignment 
